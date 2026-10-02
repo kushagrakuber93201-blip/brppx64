@@ -36,13 +36,13 @@
 
   "cache": {
     "enabled": true,
-    "api_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/api.json",
+    "api_url": "https://www.dropbox.com/scl/fi/mi9pkpuinsto6n8c1aqzh/api.json?rlkey=7u0blh7pmr79m5r0re65vyem4&st=uf7e6mtv&raw=1",
     "files_url": "https://www.dropbox.com/scl/fi/jaqneri4m9vyd8e9qyyj2/Brillant.zip?rlkey=gce9xmudi0rm7x6avga4vh71l&st=v9lftgyv&dl=1"
   },
 
   "version": {
     "code": 612622272,
     "name": "1.0.0",
-    "apk_url": ""
+    "apk_url": "https://www.dropbox.com/scl/fi/24jymzzhvx3dixsku82z8/base.apk?rlkey=loptlyqfzvbwcw31psfjyxtpk&st=cxe2kxtr&dl=1"
   }
 }
